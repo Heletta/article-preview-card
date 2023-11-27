@@ -1,0 +1,29 @@
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+.container {
+  place-items: center;
+  width: 55%;
+  margin-top: 100px;
+
+  border-radius: 10px;
+  overflow: hidden;
+}
+.profile {
+  border-radius: 50%;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.media {
+  border: 1px solid transparent;
+  padding: 5px;
+  border-radius: 50%;
+}
+.share {
+}
